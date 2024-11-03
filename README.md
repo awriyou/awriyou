@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **React for mobile/web**
 
-- 📫 How to reach me **workwithawriyou@gmail.com**
+- 📫 Reach me on **workwithawriyou@gmail.com**
 
-- ⚡ Fun fact **I need some question everyday**
+- ⚡ anther/fun fact :  **I need some question everyday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
