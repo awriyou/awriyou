@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React for mobile/web**
 
-- 📫 Reach me on **workwithawriyou@gmail.com**
+- 📫 Reach me on **4wriyou@gmail.com**
 
 - ⚡ anther/fun fact :  **I need some question everyday**
 
